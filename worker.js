@@ -29,7 +29,7 @@ function generateLoginPage(errorMessage = '') {
              justify-content: center;
              align-items: center;
              min-height: 100vh;
-             background-image: url('https://pic.npiter.com/file/1743776724959_20250308_141126_4.jpg'); /* 背景图片 */
+             background-image: url('https://raw.githubusercontent.com/Nshpiter/docker-accelerate/refs/heads/main/background.jpg'); /* 背景图片 */
              background-size: cover; /* 覆盖整个区域 */
              background-position: center; /* 居中显示 */
              background-repeat: no-repeat; /* 不重复 */
